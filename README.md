@@ -11,7 +11,7 @@ I'm a result-driven <b>Software & Web Developer</b> and an engineering student a
 I have a strong foundation in Mathematics, Statistics, and Programming, with proven expertise in <b>Python</b>, <b>C++</b>, and <b>SQL</b> for development and analytical modelling. I am also an experienced full-stack developer, skilled in building scalable, high-performance applications using the <b>MERN stack</b> (MongoDB, Express.js, React.js, Node.js).
 <br />
 <br />
-I am proficient in agile environments and have proven strengths in problem-solving, debugging, and effective communication.
+I am proficient in agile environments with proven strengths in problem-solving, debugging, and effective communication.
 </p>
 
 ---
