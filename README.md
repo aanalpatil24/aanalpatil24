@@ -1,4 +1,4 @@
-<h1 align="center">Greetings, I am Anal Patil !!</h1>
+<h1 align="center">Greetings, I am Anal Patil.</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aanalpatil24&label=Profile%20views&color=9FACE6&style=flat" alt="aanalpatil24" /> </p>
 
