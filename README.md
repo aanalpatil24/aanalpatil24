@@ -31,17 +31,21 @@ I am proficient in agile environments and have proven strengths in problem-solvi
 
 ### Coding Profiles:
 <p align="left">
+  <a href="https://leetcode.com/aanalpatil24/" target="blank">
+<img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="aanalpatil24" height="40" />
+</a> 
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/Aanal_Patil" target="blank">
+<img align="center" src="https://codeforces.org/s/0/images/codeforces-sponsored-by-ton.png" alt="Aanal_patil" height="40" />
+</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.codechef.com/users/aanalpatil24" target="blank">
 <img align="center" src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png" alt="aanalpatil24" height="40" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://codeforces.com/profile/Aanal_Patil" target="blank">
-<img align="center" src="https://codeforces.org/s/0/images/codeforces-sponsored-by-ton.png" alt="Aanal_patil" height="40" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.geeksforgeeks.org/user/analpan4ad/" target="blank">
 <img align="center" src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="analpan4ad" height="40" />
-</a> 
+</a>
 </p>
 
 ---
