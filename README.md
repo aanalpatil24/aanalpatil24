@@ -81,10 +81,6 @@ I am proficient in agile environments and have proven strengths in problem-solvi
 
 ### Connect with me:
 <p align="left">
-<a href="https://github.com/aanalpatil24" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="aanalpatil24" height="30" width="40" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/aanal-patil-1ab6861b3" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aanal-patil-1ab6861b3" height="30" width="40" />
 </a>
@@ -93,7 +89,7 @@ I am proficient in agile environments and have proven strengths in problem-solvi
 <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="analpatil07@gmail.com" height="30" />
 </a>
 </p>
----
+
 
 <!--
 ## 📈 GitHub Stats & Activity
