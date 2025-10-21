@@ -4,6 +4,7 @@
 
 <p align="left">
 Hello there !<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px"> 
+<br />
 I'm a result-driven <b>Software & Web Developer</b> and an engineering student at <b>NIT Bhopal</b>.
 <br />
 <br />
