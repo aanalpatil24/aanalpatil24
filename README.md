@@ -1,9 +1,9 @@
-<h1 align="center">Hi there, I'm Anal Patil 🚀</h1>
+<h1 align="center">Hi there, I'm Anal Patil !!</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aanalpatil24&label=Profile%20views&color=9FACE6&style=flat" alt="aanalpatil24" /> </p>
 
 <p align="left">
-Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px"> I'm a results-driven <b>Software & Web Developer</b> and an engineering student at <b>MANIT Bhopal</b>.
+Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px"> I'm a result-driven <b>Software & Web Developer</b> and an engineering student at <b>MANIT Bhopal</b>.
 <br />
 <br />
 I have a strong foundation in Mathematics, Statistics, and Programming, with proven expertise in <b>Python</b>, <b>C++</b>, and <b>SQL</b> for development and analytical modelling. I am also an experienced full-stack developer, skilled in building scalable, high-performance applications using the <b>MERN stack</b> (MongoDB, Express.js, React.js, Node.js).
