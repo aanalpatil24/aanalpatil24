@@ -9,7 +9,7 @@ Hello there !<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz
 I have a strong foundation in Mathematics, Statistics, and Programming, with proven expertise in <b>Python</b>, <b>C++</b>, and <b>SQL</b> for development and analytical modelling. I am also an experienced full-stack developer, skilled in building scalable, high-performance applications using the <b>MERN stack</b> (MongoDB, Express.js, React.js, Node.js).
 <br />
 <br />
-I am proficient in agile environment and have proven strengths in problem-solving, debugging, and effective communication.
+I am proficient in agile environments and have proven strengths in problem-solving, debugging, and effective communication.
 </p>
 
 ---
@@ -18,9 +18,11 @@ I am proficient in agile environment and have proven strengths in problem-solvin
 <a href="https://github.com/aanalpatil24" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="aanalpatil24" height="30" width="40" />
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/aanal-patil-1ab6861b3" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aanal-patil-1ab6861b3" height="30" width="40" />
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:analpatil07@gmail.com" target="blank">
 <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="analpatil07@gmail.com" height="30" />
 </a>
