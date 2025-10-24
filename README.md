@@ -15,7 +15,7 @@ I am proficient in agile environments with proven strengths in problem-solving, 
 </p>
 
 ---
-
+<!--
 ### Coding Profiles:
 <p align="left">
   <a href="https://leetcode.com/aanalpatil24/" target="blank">
@@ -36,7 +36,7 @@ I am proficient in agile environments with proven strengths in problem-solving, 
 </p>
 
 ---
-
+-->
 ## Languages and Tools
 
 ### Programming Languages
