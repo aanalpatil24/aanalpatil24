@@ -32,9 +32,8 @@ I am proficient in agile environments with proven strengths in problem-solving, 
 <img align="center" src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="analpan4ad" height="40" />
 </a>
 </p>
-
----
 -->
+
 ## Languages and Tools
 
 ### Programming Languages
