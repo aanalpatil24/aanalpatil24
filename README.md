@@ -4,15 +4,14 @@
 
 <p align="left">
 Hello there !<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px"> 
-<br /> I'm a result-driven <b>Software Developer</b> and an engineering student at <b>NIT Bhopal</b>.
+<br /> I'm a result-driven <b>Software Developer</b> and Engineering student at <b>NIT Bhopal</b>.
 <br />
 <br />
-I have a strong foundation in Mathematics, Statistics, and Programming, with proven expertise in <b>Python</b>, <b>C++</b>, and <b>SQL</b> for development and analytical modelling. I am also an experienced full-stack developer, skilled in building scalable, high-performance applications using the <b>MERN stack</b> (MongoDB, Express.js, React.js, Node.js).
+I have a strong foundation in Mathematics, Statistics, and Programming, with proven expertise in <b>Python</b>, <b>C++</b>, and <b>SQL</b>, dedicated to building high-performance systems and scalable web architecture.. My expertise lies at the intersection of low-level hardware optimization—tailored for the precision of Systems Engineering and Full-Stack Engineering. I focus on bridging the gap between raw computational power and seamless user experiences, ensuring efficiency at every level of the software stack.
 <br />
 <br />
 I am proficient in agile environments with proven strengths in problem-solving, debugging, and effective communication.
 </p>
-
 ---
 <!--
 ### Coding Profiles:
