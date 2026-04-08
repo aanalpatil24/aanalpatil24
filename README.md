@@ -7,7 +7,7 @@ Hello there !<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz
 <br /> I'm a result-driven <b>Software Developer</b> and Engineering student at <b>NIT Bhopal</b>.
 <br />
 <br />
-I have a strong foundation in Mathematics, Statistics, and Programming, with proven expertise in <b>Python</b>, <b>C++</b>, and <b>SQL</b>, dedicated to building high-performance systems and scalable web architecture.. My expertise lies at the intersection of low-level hardware optimization—tailored for the precision of Systems Engineering and Full-Stack Engineering. I focus on bridging the gap between raw computational power and seamless user experiences, ensuring efficiency at every level of the software stack.
+I have a strong foundation in Mathematics, Statistics, and Programming, with proven expertise in <b>Python</b>, <b>C++</b>, and <b>SQL</b>, dedicated to building high-performance systems and scalable web architecture.. My expertise lies at the intersection of low-level hardware optimization—tailored for the precision of Systems Engineering and Full-Stack Engineering. Whether I am optimizing C++ engines with SIMD vectorization or architecting real-time applications, I focus on bridging the gap between raw computational power and seamless user experiences.
 <br />
 <br />
 I am proficient in agile environments with proven strengths in problem-solving, debugging, and effective communication.
