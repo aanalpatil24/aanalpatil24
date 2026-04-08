@@ -12,7 +12,7 @@ I have a strong foundation in Mathematics, Statistics, and Programming, with pro
 <br />
 I am proficient in agile environments with proven strengths in problem-solving, debugging, and effective communication.
 </p>
----
+
 <!--
 ### Coding Profiles:
 <p align="left">
