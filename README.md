@@ -7,7 +7,7 @@
 <p align="left">
 Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px"> 
 <br />
-I am a <b>Software Engineering</b> student at <b>NIT Bhopal</b>, dedicated to building high-performance systems and scalable web architecture. My expertise lies at the intersection of <b>low-level hardware optimization</b>—tailored for the precision of Systems Engineering and <b>Full-Stack Engineering</b>.
+I am a <b>Software Engineering</b> student at <b>NIT Bhopal</b>, dedicated to building high-performance systems and scalable web architecture. My expertise lies at the intersection of <b>low-level hardware optimization</b>—tailored for the precision of <b>Systems Engineering</b> and <b>Full-Stack Engineering</b>.
 <br />
 <br />
 I focus on bridging the gap between raw computational power and seamless user experiences, ensuring efficiency at every level of the software stack. Proficient in agile environments with proven strengths in mathematical modeling, performance debugging, and technical communication.
