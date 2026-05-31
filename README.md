@@ -47,7 +47,7 @@ I focus on bridging the gap between raw computational power and seamless user ex
 
 ### Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/aanal-patil-1ab6861b3" target="blank">
+<a href="https://linkedin.com/in/anal-patil-1ab6861b3" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aanal-patil" height="30" width="40" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
